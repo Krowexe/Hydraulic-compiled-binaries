@@ -1,3 +1,6 @@
+# Download Binaries
+you can download the latest compiled binaries [Here](https://github.com/Krowexe/Hydraulic-compiled-binaries/releases/latest)
+
 # Hydraulic
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
